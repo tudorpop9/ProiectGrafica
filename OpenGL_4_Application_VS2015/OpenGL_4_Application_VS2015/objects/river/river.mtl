@@ -1,0 +1,13 @@
+# Blender MTL File: 'GraficaSoFarSoGood.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 440.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.509259 0.509259 0.509259
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.493034
+illum 9
+map_Kd sea4.jpg
